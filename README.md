@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Goutham Josh</h1>
 <h3 align="center">A passionate frontend developer from India,Kerala,TVM</h3>
 
-https://user-images.githubusercontent.com/97418751/199060597-faad69df-df5f-4654-b773-70f838ed6480.gif
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97418751/199061797-7c412344-9ea1-45b7-bb2b-ea16dae088c0.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthamser&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamser" /> </p>
 
