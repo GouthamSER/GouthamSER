@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Telegram Bots](https://github.com/GouthamSER/AutoFilter-bot)  
   
 
-- 🌱 I’m currently learning Python And C++  
+- 🌱 I’m currently learning Python , C++ and HTML 
   
 
 - ❓ Ask me about anything related to Bot  
