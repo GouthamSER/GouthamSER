@@ -6,7 +6,7 @@
 ### <div align="center">I'm Goutham Josh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Telegram Bots](https://github.com/GouthamSER/AutoFilter-bot)  
+- 🔭 I’m currently working on [Telegram Bots]  
   
 
 - 🌱 I’m currently learning Python , C++ and HTML 
