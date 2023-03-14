@@ -1,109 +1,49 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 55%" />
-</div>  
-  
+# Wᴇʟᴄᴏᴍᴇ ᴛᴏ Gᴏᴜᴛʜᴀᴍ Jᴏsʜ GɪᴛHᴜʙ Pʀᴏғɪʟᴇ 👋
+<pre align="left">
+<img align="left" width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px">
 
-### <div align="center">I'm Goutham Josh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+</pre>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GouthamSER&label=Profile%20views&color=129e00&style=plastic" alt="Gᴏᴜᴛʜᴀᴍ Jᴏsʜ" /> </p>
 
-- 🔭 I’m currently working on [Telegram Bots]  
-  
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
+<b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: C++ , ᴘʏᴛʜᴏɴ ᴀɴᴅ HTML ɪs sᴛᴜᴅʏɪɴɢ
+<br>• 📚 Sᴛᴜᴅᴇɴᴛ ᴀɴᴅ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ.</b>
 
-- 🌱 I’m currently learning Python , C++ and HTML 
-  
+<img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
-- ❓ Ask me about anything related to Bot  
-  
+## 🌐 Sᴏᴄɪᴀʟs:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/goutham.josh.58) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_goutham_josh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
 
-- ⚡ Fun fact: I use tabs over spaces😀  
-  
+# 💻 Tᴇᴄʜ Sᴛᴀᴄᴋ:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<br/>  
+# 📊 GɪᴛHᴜʙ Sᴛᴀᴛs:
+![](https://github-readme-stats.vercel.app/api?username=GouthamSER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GouthamSER&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamSER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GɪᴛHᴜʙ Tʀᴏᴘʜɪᴇs
+![](https://github-profile-trophy.vercel.app/?username=GouthamSER&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Rᴀɴᴅᴏᴍ Dᴇᴠ Qᴜᴏᴛᴇ
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+# ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
+<p align="left">
+<a href="https://telegram.me/wudixh13/4"><img alt="Telegram" src="https://img.shields.io/badge/Gᴏᴜᴛʜᴀᴍ Jᴏsʜ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/wudixh">
+    &nbsp;<img src="https://img.shields.io/badge/Free Movies-Group-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
+  </a>
+</p>
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### My Languages✨  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-
-
-### Social Medias  
-<div align="center">
-<a href="https://github.com/GouthamSER" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Goutham Josh" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/im_goutham_josh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCsTaSGb0wsKFhFyrfq4zc1g" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GouthamSER&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=uy00a5utij04dwch2qiyazjlw&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=GouthamSER&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-
-### DonaTE ME  
-<div align="center">
-            <a href="https://www.buymeacoffee.com/gouthamjosh" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
+<p align="left">
+<b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
+</p>
 
