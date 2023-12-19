@@ -8,7 +8,7 @@
 Basics<br><br>
 <a href ="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/html-%2324292e.svg?&style=for-the-badge&logo=html&logoColor=white alt=html style="margin-bottom="6px"></a>
 <a href ="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=white alt=js style="margin-bottom="6px"></a>
-<a href ="www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/mysql-%2324292e.svg?&style=for-the-badge&logo=mysql&logoColor=white alt=sql style="margin-bottom="6px"></a>
+<a href ="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2324292e.svg?&style=for-the-badge&logo=mysql&logoColor=white alt=sql style="margin-bottom="6px"></a>
 <a href ="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/c++-%2324292e.svg?&style=for-the-badge&logo=cplusplus&logoColor=white alt=c++ style="margin-bottom="6px"></a>
 <a href ="https://php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%2324292e.svg?&style=for-the-badge&logo=php&logoColor=white alt=php style="margin-bottom="6px"></a>
 </p>
