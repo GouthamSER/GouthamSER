@@ -17,10 +17,9 @@
 
 - ⚡ Fun fact **I think IAM FUnny**
 
-
 ## 🎧 Now Playing on Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=uy00a5utij04dwch2qiyazjlw&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=true)](https://open.spotify.com/user/uy00a5utij04dwch2qiyazjlw)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=uy00a5utij04dwch2qiyazjlw&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=true)](https://open.spotify.com/user/uy00a5utij04dwch2qiyazjlw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
