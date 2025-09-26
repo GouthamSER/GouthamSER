@@ -1,3 +1,5 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Kuttu%20Bot&width=1000&height=200)](https://github.com/GouthamSER)
+
 <h1 align="center">Hi 👋, I'm Goutham Josh</h1>
 <h3 align="center">A passionate frontend developer from India, Kerala, TVM</h3>
 
@@ -11,7 +13,7 @@
 
 - 💬 Ask me about **Above Coding Lang**
 
-- 📫 How to reach me **goutham22@gmail.com**
+- 📫 How to reach me **gouthamjosh22@gmail.com**
 
 - 📄 Know about my experiences [Copy PAste or NEW AI](Copy PAste or NEW AI)
 
