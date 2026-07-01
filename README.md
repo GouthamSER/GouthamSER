@@ -1,6 +1,6 @@
 <div align="center">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Goutham%20Ser⚠&width=1000&height=200)](https://github.com/GouthamSER)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Goutham%20Josh%20✔&width=1000&height=200)](https://github.com/GouthamSER)
 
 # Hi 👋, I'm Goutham Josh
 ### 🚀 A passionate developer from Kerala, TVM, India
